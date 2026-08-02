@@ -3,10 +3,10 @@
 
 ### ★ Member 
 
-Developer <a href="https://github.com/yaeryung93">김예령</a><br>
+BE Developer <a href="https://github.com/yaeryung93">김예령</a><br>
 
-Developer <a href="https://github.com/heeseo033">문희서</a><br>
+BE Developer <a href="https://github.com/heeseo033">문희서</a><br>
 
-Developer <a href="https://github.com/ksm524923">고성민</a><br>
+FE Developer <a href="https://github.com/ksm524923">고성민</a><br>
 
 Designer <a href="https://github.com/iioct">이인서</a>
