@@ -1,5 +1,5 @@
 ## ★ Find, Learn, Understand and Excel
-배우고, 이해하며 함께 성장하는 개발팀 <b>Flux</b>입니다 !
+배우고, 이해하며 성장하는 개발팀 Flux입니다
 
 ### ★ Member 
 
