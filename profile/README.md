@@ -7,7 +7,7 @@
   <tr>
     <td align="center">
       <a href="https://github.com/yaeryung93">
-        <img src="./img/%E1%84%8B%E1%85%A8%E1%84%85%E1%85%A7%E1%86%BC.jpeg"
+        <img src="./img/IMG_7636.jpeg"
              width="160" height="160"
              alt="김예령 프로필"/>
       </a>
