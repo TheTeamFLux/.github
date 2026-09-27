@@ -38,15 +38,15 @@
   <tr>
     <td align="center">
       <a href="https://github.com/yaeryung93"><b>김예령</b></a><br/>
-      BE Developer
+      Full-stack <br> Developer
     </td>
     <td align="center">
       <a href="https://github.com/heeseo033"><b>문희서</b></a><br/>
-      BE Developer
+      BackEnd <br> Developer
     </td>
     <td align="center">
       <a href="https://github.com/ksm524923"><b>고성민</b></a><br/>
-      FE Developer
+      FrontEnd <br> Developer
     </td>
     <td align="center">
       <a href="https://github.com/iioct"><b>이인서</b></a><br/>
